@@ -1,4 +1,4 @@
-package com.github.flavio.junior.collectionutil.util;
+package io.github.flavio.junior.collectionutil.util;
 
 import java.util.*;
 import java.util.function.*;
